@@ -1,0 +1,78 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	aerial: {
+		file: aerial.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	RGBA_243_207_207_255: {
+		r: 0.95333326
+		g: 0.8135111
+		b: 0.8135111
+		a: 1
+	}
+	RGBA_255_255_255_255: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+	RGBA_30_26_26_255: {
+		r: 0.28333333
+		g: 0.22666666
+		b: 0.22666666
+		a: 1
+	}
+	RGBA_52_41_41_255: {
+		r: 0.20666666
+		g: 0.16120002
+		b: 0.16120002
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	roundButton_down: {
+		name: buttonRound_blue
+		color: RGBA_243_207_207_255
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	default: {
+		up: buttonSquare_brown
+		down: buttonSquare_brown_pressed
+	}
+	grey: {
+		up: buttonSquare_blue
+		down: buttonSquare_blue_pressed
+	}
+	white: {
+		up: buttonSquare_grey
+		down: buttonSquare_grey_pressed
+	}
+	round: {
+		up: buttonRound_blue
+		down: roundButton_down
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: aerial
+		fontColor: RGBA_30_26_26_255
+		background: buttonLong_beige_pressed
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: aerial
+		fontColor: RGBA_52_41_41_255
+		downFontColor: RGBA_30_26_26_255
+		up: buttonSquare_brown
+		down: buttonSquare_brown_pressed
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+	default: {
+		label: default
+	}
+}
+}

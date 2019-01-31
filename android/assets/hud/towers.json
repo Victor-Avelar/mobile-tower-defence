@@ -1,0 +1,64 @@
+{
+com.badlogic.gdx.graphics.Color: {
+	RGBA_243_183_183_255: {
+		r: 0.95333326
+		g: 0.7213555
+		b: 0.7213555
+		a: 1
+	}
+	RGBA_252_113_113_255: {
+		r: 0.99
+		g: 0.44550002
+		b: 0.44550002
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	tower1-click: {
+		name: tower1
+		color: RGBA_252_113_113_255
+	}
+	tower1-hover: {
+		name: tower1
+		color: RGBA_243_183_183_255
+	}
+	tower2-click: {
+		name: tower2
+		color: RGBA_252_113_113_255
+	}
+	tower2-hover: {
+		name: tower2
+		color: RGBA_243_183_183_255
+	}
+	tower3-click: {
+		name: tower3
+		color: RGBA_252_113_113_255
+	}
+	tower3-hover: {
+		name: tower3
+		color: RGBA_243_183_183_255
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	default: {
+		up: tower1
+		down: tower1-click
+		over: tower1-hover
+	}
+	tower1-style: {
+		up: tower1
+		down: tower1-click
+		over: tower1-hover
+	}
+	tower2-style: {
+		up: tower2
+		down: tower2-click
+		over: tower2-hover
+	}
+	tower3-style: {
+		up: tower3
+		down: tower3-click
+		over: tower3-hover
+	}
+}
+}

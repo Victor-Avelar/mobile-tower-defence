@@ -1,0 +1,67 @@
+-154 -300
+-30 -304
+-30 -264
+-112 -264
+-112 -216
+98 -216
+98 -168
+-48 -168
+-48 -100
+82 -100
+82 44
+-144 44
+-144 136
+-16 136
+-16 232
+map
+0 1 true 30
+1 1 true 30
+2 1 true 30
+3 1 true 30
+4 1 true 30
+5 3 true 7 false 9 true 14
+6 3 true 7 false 9 true 14
+7 3 true 14 false 2 true 14
+8 3 true 9 false 7 true 14
+9 3 true 9 false 7 true 14
+10 3 true 9 false 2 true 19
+11 3 true 9 false 15 true 6
+12 3 true 9 false 15 true 6
+13 3 true 22 false 2 true 6
+14 3 true 13 false 11 true 6
+15 3 true 13 false 11 true 6
+16 3 true 13 false 2 true 15
+17 3 true 13 false 2 true 15
+18 3 true 13 false 10 true 7
+19 3 true 13 false 10 true 7
+20 3 true 21 false 2 true 7
+21 3 true 21 false 2 true 7
+22 3 true 21 false 2 true 7
+23 3 true 21 false 2 true 7
+24 3 true 21 false 2 true 7
+25 3 true 21 false 2 true 7
+26 3 true 21 false 2 true 7
+27 3 true 7 false 16 true 7
+28 3 true 7 false 16 true 7
+29 3 true 7 false 2 true 21
+30 3 true 7 false 2 true 21
+31 3 true 7 false 2 true 21
+32 3 true 7 false 2 true 21
+33 3 true 7 false 10 true 13
+34 3 true 7 false 10 true 13
+35 3 true 15 false 2 true 13
+36 3 true 15 false 2 true 13
+37 3 true 15 false 2 true 13
+38 3 true 15 false 2 true 13
+39 3 true 15 false 2 true 13
+40 1 true 30
+41 1 true 30
+42 1 true 30
+43 1 true 30
+44 1 true 30
+45 1 true 30
+46 1 true 30
+47 1 true 30
+48 1 true 30
+49 1 true 30
+
